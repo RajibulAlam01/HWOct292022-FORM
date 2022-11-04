@@ -1,0 +1,38 @@
+h1{
+	text-align: center;
+	background-color: darkcyan;
+	border-style: solid;
+	font-display: block;
+	font-style: italic;
+}
+
+h2{
+	text-align: center;
+	color: darkred;
+
+}
+
+.wrapper{
+		text-align: center;
+		width: 60%;
+		margin: 0 auto;
+		border: 5px solid #dddd;
+}
+
+label{
+	font-size: 15px;
+}
+
+.first_name, .last_name, .email, .password
+{
+	width:  90%;
+	height: 20px;
+	padding:  5px;
+}
+
+h6{
+	font-style: italic;
+	background-color: darkolivegreen;
+
+}
+
